@@ -1,2 +1,4 @@
 # Hello-world
-First program on GIT
+
+This is my First Progarm On GITHUB.
+I am Creting Repository for the firat time. 
