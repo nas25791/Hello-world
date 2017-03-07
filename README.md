@@ -1,4 +1,3 @@
 # Hello-world
-
-This is my First Progarm On GITHUB.
-I am Creting Repository for the firat time. 
+I am new to GITHUB.
+I am Creting Repository for the first time. 
